@@ -1,0 +1,6 @@
+{
+  "name": "车床端面燕尾槽轮廓切点可视化",
+  "description": "标准对称梯形车床端面燕尾槽 CAD 几何轮廓、圆弧过渡切点解析计算与工程制图可视化系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
